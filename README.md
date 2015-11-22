@@ -21,7 +21,7 @@ docker run -it --rm \
   spectool -R -g rpmbuild/SPECS/foobar.spec
 ```
 
-This would download all Sources / Patches references in the ```foobar.spec``` spectile to ```/home/myuser/rpmbuild/SOURCES```
+This would download all Sources / Patches references in the ```foobar.spec``` spefile to ```/home/myuser/rpmbuild/SOURCES```
 
 Executing
 
